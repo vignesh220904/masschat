@@ -10,7 +10,7 @@ export const AuthPage = () => {
       <div className="w-full max-w-md space-y-6">
         <div className="text-center space-y-2">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            InstantTalk
+            MassChat-Room
           </h1>
           <p className="text-muted-foreground">
             Real-time chat rooms for instant conversations
